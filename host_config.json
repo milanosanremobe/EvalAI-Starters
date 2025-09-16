@@ -1,5 +1,5 @@
 {
   "evalai_host_url": "https://test-toitu-api-docs.nonprod.toitu.co.nz/",
-  "evalai_user_auth_token": "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",
+  "evalai_user_auth_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4OTU1MjI0NiwianRpIjoiOTE3YThmNDNjMjQ0NDczZGIxNzFiZjk2OTc3YmY5YjIiLCJ1c2VyX2lkIjo1OTIxOX0.g61mo7WT5Y-mK654TUyTD3aG16a3aT6KiwtrY5hszn0",
   "host_team_pk": "123"
 }
